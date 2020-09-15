@@ -141,6 +141,16 @@ Printbare upgrades voor Ender 3
 [li][url="https://www.thingiverse.com/thing:2913473"]Dampening feet[/url][/li]
 [li][url="https://www.thingiverse.com/thing:2989832"]LCD ribbon cable cover [/url][/li]
 [/list]
+
+[br]
+[h2]De eerste stappen na assemblage[/h2]
+Voordat je begint met allemaal dingen te willen aanpassen en instellen, is het belangrijk dat je de volgende basisstappen hebt doorlopen:
+[list]
+    [li]Is je frame recht? Zet de printer op een volledig vlakke ondergrond en controleer dat het frame niet wiebelt en dat alle 4 de pootjes plat op de tafel staan. Er mag geen speling zijn.[/li]
+	[li]Level het bed. (link naar youtube wellicht en/of verplaatsen van tekst uit "veel voorkomende issues" hieronder)[/li]
+	[li]Plaats de meegeleverde MicroSD in je printer en start de print voor het hondje. Deze duurt relatief lang, maar alle facetten van de print moeten hier goed zijn.[/li]
+[/list]
+Komt het hondje er niet goed uit of merk je al tijdens het printen dat het niet klopt, dan wordt het tijd voor nalopen van de verschillen afstel opties.
 [br]
 [h2]Veel voorkomende issues[/h2]
 Er zijn veel vervelende situaties waar je tegen aan kunt lopen. Mede door de grote community is voor bijna elk probleem wel iets te vinden.
